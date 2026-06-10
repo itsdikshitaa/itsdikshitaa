@@ -37,7 +37,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsdikshitaa&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
 </p>
 
 ---
