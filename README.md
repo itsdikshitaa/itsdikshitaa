@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://itsdikshitaa-github-io.vercel.app">
+  <a href="https://dikshitaa.tech">
     <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:dikshitakonwar16@gmail.com">
@@ -74,7 +74,7 @@
     <td width="50%">
       <h3 align="center">Portfolio Website</h3>
       <p align="center">
-        <a href="https://itsdikshitaa-github-io.vercel.app" target="_blank">
+        <a href="https://dikshitaa.tech" target="_blank">
           <img src="https://img.shields.io/badge/Live_Site-FF4088?style=flat-square&logo=vercel&logoColor=white"/>
         </a>
         <a href="https://github.com/itsdikshitaa/itsdikshitaa.github.io" target="_blank">
