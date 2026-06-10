@@ -134,7 +134,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsdikshitaa&label=Profile%20Views&color=FF4088&style=flat-square"/>
   <img src="https://img.shields.io/github/followers/itsdikshitaa?label=Followers&style=flat-square&color=blue"/>
-  <img src="https://img.shields.io/github/stars/itsdikshitaa?label=Stars&style=flat-square&color=yellow"/>
 </p>
 
 <div align="center">
