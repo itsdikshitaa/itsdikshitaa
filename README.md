@@ -1,229 +1,164 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,50:2563eb,100:06b6d4&text=Dikshita%20Konwar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Developer%20%7C%20Frontend%20and%20Security%20Projects&descAlignY=60&descSize=18"
-    alt="Banner with the name Dikshita Konwar and the subtitle Aspiring Developer | Frontend and Security Projects"
-  />
-</p>
-
-<h1 align="center">Hi, I'm Dikshita Konwar</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Dikshita!&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Developer%20%7C%20Security%20Enthusiast%20%7C%20UI%20Builder&descAlignY=55"/>
+</div>
 
 <p align="center">
-  Aspiring developer focused on building clean, responsive, and user-friendly
-  digital experiences.
-</p>
-
-<p align="center">
-  <a href="https://github.com/itsdikshitaa">
-    <img
-      src="https://img.shields.io/badge/GitHub-itsdikshitaa-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub profile badge for Dikshita Konwar"
-    />
-  </a>
   <a href="https://itsdikshitaa-github-io.vercel.app">
-    <img
-      src="https://img.shields.io/badge/Portfolio-Live%20Site-2563eb?style=for-the-badge&logo=vercel&logoColor=white"
-      alt="Live portfolio website badge for Dikshita Konwar"
-    />
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:dikshitakonwar16@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-dikshitakonwar16%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email badge for Dikshita Konwar"
-    />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/itsdikshitaa">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/itsdikshitaa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
+---
+
+<h2 align="center">About Me</h2>
+
 <p align="center">
-  <img
-    src="https://img.shields.io/badge/Location-India-0f766e?style=flat-square"
-    alt="Location badge showing India"
-  />
-  <img
-    src="https://img.shields.io/badge/Open%20to-Internships%20and%20Entry%20Roles-2563eb?style=flat-square"
-    alt="Badge showing openness to internships and entry roles"
-  />
-  <img
-    src="https://img.shields.io/badge/Focus-Frontend%20%2B%20Security-7c3aed?style=flat-square"
-    alt="Badge showing focus on frontend and security"
-  />
+  Based in India • Open to internships, entry-level opportunities, and meaningful collaborations<br/>
+  Passionate about <strong>frontend development</strong>, <strong>interface design</strong>, <strong>accessibility</strong>, and <strong>practical security</strong><br/>
+  Growing through hands-on work in <strong>Next.js</strong>, <strong>TypeScript</strong>, <strong>React</strong>, and <strong>Python</strong>
+</p>
+
+<br/>
+
+<h2 align="center">GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsdikshitaa&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdikshitaa&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=itsdikshitaa&label=Profile%20views&color=2563eb&style=flat"
-    alt="Profile views counter for Dikshita Konwar"
-  />
-  <img
-    src="https://img.shields.io/github/followers/itsdikshitaa?style=social"
-    alt="GitHub followers for Dikshita Konwar"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsdikshitaa&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsdikshitaa&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"/>
 </p>
 
 ---
 
-## About Me
-
-- Based in India.
-- Open to internships, entry-level opportunities, and meaningful collaborations.
-- Interested in frontend development, interface design, accessibility, and
-  practical security projects.
-- Currently growing through hands-on work in Next.js, TypeScript, React, and
-  Python.
-
-> I believe strong work should be clear, thoughtful, and professionally
-> presented.
-
----
-
-## What I'm Building
-
-- **Portfolio Website**: a responsive personal site built with Next.js 16,
-  React 19, TypeScript, Tailwind CSS 4, Framer Motion, Jest, and Cypress.
-- **PassVault**: a privacy-first password generator with client-side storage,
-  password strength feedback, and a polished interface.
-- **BlueBorne Scanner**: a Python-based Bluetooth security project focused on
-  detecting devices that may be susceptible to BlueBorne-related issues.
-
----
-
-## Featured Projects
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <a href="https://github.com/itsdikshitaa/itsdikshitaa.github.io">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=itsdikshitaa&repo=itsdikshitaa.github.io&theme=tokyonight"
-      alt="Pinned repository card for the portfolio website repository"
-    />
-  </a>
-  <a href="https://github.com/itsdikshitaa/PassVault">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=itsdikshitaa&repo=PassVault&theme=tokyonight"
-      alt="Pinned repository card for the PassVault repository"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/itsdikshitaa/Blueborne-scanner-master">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=itsdikshitaa&repo=Blueborne-scanner-master&theme=tokyonight"
-      alt="Pinned repository card for the Blueborne scanner repository"
-    />
-  </a>
-</p>
-
-### Portfolio Website
-
-A polished portfolio built to present skills, projects, and contact details
-with strong visual structure and accessible interactions.
-
-- Live site: [itsdikshitaa-github-io.vercel.app](https://itsdikshitaa-github-io.vercel.app)
-- Source: [github.com/itsdikshitaa/itsdikshitaa.github.io](https://github.com/itsdikshitaa/itsdikshitaa.github.io)
-- Highlights: Next.js 16, React 19, TypeScript, Tailwind CSS 4, Framer Motion,
-  Jest, Cypress
-
-### PassVault
-
-A privacy-first password generator focused on secure browser-side password
-creation, local storage workflows, and a modern user experience.
-
-- Source: [github.com/itsdikshitaa/PassVault](https://github.com/itsdikshitaa/PassVault)
-- Highlights: Next.js, TypeScript, Tailwind CSS, Radix UI, React Hook Form,
-  Zod, Three.js
-- Focus: strong password generation, local-first usage, polished UI
-
-### BlueBorne Scanner
-
-A Python security project that scans Bluetooth devices and helps flag
-BlueBorne-related risk through device discovery and protocol analysis.
-
-- Source: [github.com/itsdikshitaa/Blueborne-scanner-master](https://github.com/itsdikshitaa/Blueborne-scanner-master)
-- Highlights: Python, Bluetooth scanning, vulnerability analysis,
-  security-focused scripting
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,tailwind,nodejs,git,github,vercel,jest,cypress,threejs"
-    alt="Skill icons for TypeScript, JavaScript, Python, React, Next.js, Tailwind CSS, Node.js, Git, GitHub, Vercel, Jest, Cypress, and Three.js"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Frontend-React%20%7C%20Next.js-0f172a?style=flat-square&logo=react"
-    alt="Frontend stack badge for React and Next.js"
-  />
-  <img
-    src="https://img.shields.io/badge/Language-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white"
-    alt="TypeScript badge"
-  />
-  <img
-    src="https://img.shields.io/badge/Language-Python-3776ab?style=flat-square&logo=python&logoColor=white"
-    alt="Python badge"
-  />
-  <img
-    src="https://img.shields.io/badge/Styling-Tailwind%20CSS-06b6d4?style=flat-square&logo=tailwind-css&logoColor=white"
-    alt="Tailwind CSS badge"
-  />
-  <img
-    src="https://img.shields.io/badge/Testing-Jest%20%26%20Cypress-16a34a?style=flat-square"
-    alt="Testing badge for Jest and Cypress"
-  />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Radix_UI-FF4B4B?style=for-the-badge&logo=radix-ui&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white"/>
 </p>
 
 ---
 
-## Current Focus
+<h2 align="center">Featured Projects</h2>
 
-- Refining my portfolio and project presentation for a stronger professional
-  profile.
-- Deepening my skills in TypeScript, Next.js, animation, and responsive UI
-  development.
-- Building projects that combine clean interfaces with practical security and
-  privacy ideas.
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Portfolio Website</h3>
+      <p align="center">
+        <a href="https://itsdikshitaa-github-io.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Site-FF4088?style=flat-square&logo=vercel&logoColor=white"/>
+        </a>
+        <a href="https://github.com/itsdikshitaa/itsdikshitaa.github.io" target="_blank">
+          <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">A polished portfolio with strong visual structure and accessible interactions.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">PassVault</h3>
+      <p align="center">
+        <a href="https://github.com/itsdikshitaa/PassVault" target="_blank">
+          <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Privacy-first password generator with client-side storage and strength feedback.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Radix_UI-FF4B4B?style=flat-square&logo=radix-ui&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">BlueBorne Scanner</h3>
+      <p align="center">
+        <a href="https://github.com/itsdikshitaa/Blueborne-scanner-master" target="_blank">
+          <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Bluetooth security scanner that detects BlueBorne-related vulnerabilities.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Security-4285F4?style=flat-square&logo=security&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">SecOS Defender</h3>
+      <p align="center">
+        <a href="https://github.com/itsdikshitaa/SecOS-Defender" target="_blank">
+          <img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Endpoint defense platform with runtime detection, vulnerability correlation, and automated response.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## GitHub Snapshot
+<h2 align="center">Current Focus</h2>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=itsdikshitaa&show_icons=true&include_all_commits=true&theme=tokyonight"
-    alt="GitHub stats card for Dikshita Konwar"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdikshitaa&layout=compact&theme=tokyonight"
-    alt="Top languages card for Dikshita Konwar"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=itsdikshitaa&theme=tokyonight_duo&hide_border=true"
-    alt="GitHub contribution streak card for Dikshita Konwar"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=itsdikshitaa&bg_color=ffffff00&color=2563eb&line=06b6d4&point=1f2937&area=true&hide_border=true"
-    alt="GitHub activity graph for Dikshita Konwar"
-  />
+  🔹 Refining portfolio and project presentation for a stronger professional profile<br/>
+  🔹 Deepening skills in <strong>TypeScript</strong>, <strong>Next.js</strong>, animation, and responsive UI<br/>
+  🔹 Building projects that combine clean interfaces with practical security and privacy<br/>
+  🔹 Seeking <strong>internships</strong>, <strong>entry-level roles</strong>, and <strong>collaborations</strong>
 </p>
 
 ---
 
-## Connect
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsdikshitaa&label=Profile%20Views&color=FF4088&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/itsdikshitaa?label=Followers&style=flat-square&color=blue"/>
+  <img src="https://img.shields.io/github/stars/itsdikshitaa?label=Stars&style=flat-square&color=yellow"/>
+</p>
 
-- Portfolio: [itsdikshitaa-github-io.vercel.app](https://itsdikshitaa-github-io.vercel.app)
-- GitHub: [github.com/itsdikshitaa](https://github.com/itsdikshitaa)
-- Email: [dikshitakonwar16@gmail.com](mailto:dikshitakonwar16@gmail.com)
-- Availability: Open to internships, entry-level roles, and collaborations
-
-*Last updated: 2026-03-14*
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
