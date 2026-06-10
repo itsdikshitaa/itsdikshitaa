@@ -32,8 +32,6 @@
 <h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsdikshitaa&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsdikshitaa&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
